@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey
 
-I'm a vulnerability researcher who's interested in Windows and hypervisors.
+I'm a vulnerability researcher.
 
 <br>
 
